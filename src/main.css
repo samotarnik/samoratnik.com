@@ -1,0 +1,44 @@
+.container {
+    padding: 0 20px;
+    margin: 50px auto;
+    max-width: 550px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #333333;
+    font-style: normal;
+    font-weight: normal;
+}
+h1 {
+    font-size: 1.5em;
+    font-style: normal;
+    font-weight: normal;
+}
+p {
+    font-size: 1em;
+    font-style: normal;
+    font-weight: normal;
+}
+a:link,a:visited,a:active {
+    color: #333333;
+    border-bottom: 1px dotted #888888;
+    text-decoration: none;
+}
+a:hover {
+    color: #333333;
+    border-bottom: 1px solid #888888;
+    text-decoration: none;
+}
+.footer {
+    padding-top: 2em;
+    font-size: 0.75em;
+    color: #bbbbbb;
+}
+.footer a:link,.footer a:visited,.footer a:active {
+    color: #bbbbbb;
+    border-bottom: 1px dotted #bbbbbb;
+    text-decoration: none;
+}
+.footer a:hover {
+    color: #bbbbbb;
+    border-bottom: 1px solid #cccccc;
+    text-decoration: none;
+}
