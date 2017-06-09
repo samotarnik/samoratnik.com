@@ -1,3 +1,4 @@
 /build
 /.ruby-version
 /.ruby-gemset
+/src/*.min.css
